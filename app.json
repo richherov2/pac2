@@ -1,5 +1,5 @@
 {
-    "name": "V2Ray VLess",
+    "name": "pac2",
     "description": "Deploy V2ray VLess on Heroku.",
     "keywords": ["VLESS"],
     "env": {
